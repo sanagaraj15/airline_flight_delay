@@ -1,4 +1,5 @@
-✈️ Airline Flight Delay Analysis Dashboard
+                                                         ✈️ Airline Flight Delay Analysis Dashboard
+
 📌 Project Overview
 
 This project focuses on analyzing airline flight delays using data analytics and visualization techniques. The objective is to explore patterns in flight delays and identify factors that influence delays such as airline type, weather conditions, runway traffic, and distance.
@@ -6,7 +7,7 @@ This project focuses on analyzing airline flight delays using data analytics and
 The project performs data cleaning, data processing, statistical analysis, and visualization using Python libraries like NumPy, Pandas, Matplotlib, and Seaborn.
 
 An interactive dashboard selection system allows users to view different sets of visual analytics.
-                  ______________________________________________________________________________________________________________________
+                                ______________________________________________________________________________________________________________________
 
 🎯 Objectives
 
@@ -19,7 +20,8 @@ Identify relationships between distance, weather conditions, and delays
 Create interactive dashboards for visualization
 
 Demonstrate data manipulation and visualization techniques in Python
-                  ______________________________________________________________________________________________________________________
+                               ______________________________________________________________________________________________________________________
+
 
 🗂 Dataset
 
@@ -42,7 +44,7 @@ month	Month of flight
 year	Year of flight
 
 Additional columns (feature_1 – feature_37) simulate extended operational data.
-                  ______________________________________________________________________________________________________________________
+                                  ______________________________________________________________________________________________________________________
 
 📊 Dashboards
 
@@ -71,23 +73,34 @@ Feature Correlation (Heatmap)
 Monthly Delay Trend (Line / Area Chart)
 
 Delay Spread by Airline (Box Plot)
-                  ______________________________________________________________________________________________________________________
+                                   ______________________________________________________________________________________________________________________
 
 🖥 How to Run the Project
+
 1️⃣ Clone the repository
+
 git clone https://github.com/sanagaraj15/airline_flight_delay.git
+
 2️⃣ Navigate to the project folder
+
 **cd airline-delay-analysis**
 3️⃣ Install required libraries
+
 **pip install pandas numpy matplotlib seaborn**
+
 4️⃣ Run the project
+
 **python main.py**
 
 You will be prompted to select a dashboard:
 
 1 → Dashboard 1
-2 → Dashboard 2
-                  ______________________________________________________________________________________________________________________
 
-👨‍💻 Author
-Nagaraj S A
+2 → Dashboard 2
+
+                                                                  
+
+
+                                                                             👨‍💻 Author
+
+                                                                            Nagaraj S A
