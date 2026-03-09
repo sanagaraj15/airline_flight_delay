@@ -89,13 +89,13 @@ Delay Spread by Airline (Box Plot)
 
 🖥 How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/sanagaraj15/airline-flight-delay.git
+git clone https://github.com/sanagaraj15/airline_flight_delay.git
 2️⃣ Navigate to the project folder
-cd airline-delay-analysis
+**cd airline-delay-analysis**
 3️⃣ Install required libraries
-pip install pandas numpy matplotlib seaborn
+**pip install pandas numpy matplotlib seaborn**
 4️⃣ Run the project
-python main.py
+**python main.py**
 
 You will be prompted to select a dashboard:
 
