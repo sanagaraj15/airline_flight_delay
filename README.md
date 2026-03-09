@@ -89,7 +89,7 @@ Delay Spread by Airline (Box Plot)
 
 🖥 How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/airline-delay-analysis.git
+git clone https://github.com/sanagaraj15/airline-flight-delay.git
 2️⃣ Navigate to the project folder
 cd airline-delay-analysis
 3️⃣ Install required libraries
